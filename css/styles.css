@@ -76,7 +76,7 @@ p {
 
 
 .lottiefiles {
-    background-color: var(--accentColor) !important;
-    padding: 25px;
+    background-color: var(--primaryColor) !important;
+    padding: 20px;
     color: #ffffff !important;
 }
